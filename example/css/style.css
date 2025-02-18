@@ -1,0 +1,15 @@
+*{
+    color : red;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: brown
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
